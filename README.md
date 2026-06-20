@@ -9,10 +9,7 @@ Team Members:
 - Vivian Marsyanda
 
 ## Project Overview
-This repository contains the source code and dataset for our comparative analysis of K-Means and DBSCAN clustering algorithms. The objective of this study is to segment the real estate market in Balikpapan City to understand its submarket structure, especially considering the rapid spatial and economic changes driven by the new capital city (IKN) development.
-
-## Dataset
-The dataset consists of approximately 1,200 active residential property listings scraped from the rumah123.com platform.
+This repository contains the source code for our comparative analysis of K-Means and DBSCAN clustering algorithms. The objective of this study is to segment the real estate market in Balikpapan City to understand its submarket structure, especially considering the rapid spatial and economic changes driven by the new capital city (IKN) development.
 
 Features used for the clustering models:
 1. Lokasi_Num (Categorical encoding of districts)
