@@ -24,7 +24,7 @@ The dataset comprises approximately 1,200 active residential property listings s
   4. `LB_Num` (Building Area in m²)
   5. `Bedroom_Num` (Number of Bedrooms)
   6. `Bathroom_Num` (Number of Bathrooms)
-  7. `Harga_per_m2` (Engineered feature: Price per square meter)
+  7. `Harga_per_m2` (Engineered feature: Price per land area square meter)
 
 ## ⚙️ Methodology & Algorithms
 * **K-Means:** Optimized at **k = 4** (determined via the Elbow Method).
